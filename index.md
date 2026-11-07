@@ -37,7 +37,7 @@ title: Who is the Thief? Privacy Policy / プライバシーポリシー
 
 ## 5. 削除・お問い合わせ
 
-情報の扱いについての問い合わせや、削除のご依頼は、上の連絡先へお送りください。可能な範囲で対応します。
+ボイスチャットの音声は保存しておらず、クラッシュ・エラーの報告は7日で自動的に消えます。Steam の表示名や実績など Steam が持つ情報については、Valve へお問い合わせください。それ以外の情報の扱いについての問い合わせや削除のご依頼は、上の連絡先へお送りください。
 
 ## 6. 変更
 
@@ -78,7 +78,7 @@ We do not knowingly collect information from children under 13.
 
 ## 5. Deletion and inquiries
 
-For questions about how your information is handled, or to request deletion, please use the contact above. We will respond to the extent we are able.
+Voice chat audio is not stored, and crash and error reports are deleted automatically after 7 days. For information held by Steam, such as your display name and achievements, please contact Valve. For any other questions about how your information is handled, or to request deletion, please use the contact above.
 
 ## 6. Changes
 
